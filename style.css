@@ -1,0 +1,103 @@
+#dropdownMenuButton:hover {
+
+    cursor: pointer;
+
+}
+
+#logo {
+    font-size: 32px;
+    font-style: italic;
+    font-family: 'Praise', cursive;
+    transition: .5s ease;
+}
+
+#logo:hover {
+    font-weight: 700;
+    color: red;
+}
+
+nav {
+    background-color: beige;
+}
+
+
+.sidebar {
+    background-color: whitesmoke;
+    height: 100vh;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    margin-top: 30px;
+}
+
+
+.sidebar ul li {
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+
+
+ .link-items li a{
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+
+}
+
+.link-items li a:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+
+
+.menu {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.category {
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+label{
+    font-size: 20px;
+
+}
+
+.form-group .form-control {
+    border: 1px solid black;
+
+}
+
+.edit {
+    color: blue;
+    font-weight: bold;
+   
+}
+
+
+.edit:hover {
+    color: black;
+    font-style: italic;
+}
+
+
+.del {
+    color: red;
+    font-weight: bold;
+   
+}
+
+
+.del:hover {
+    color: black;
+    font-style: italic;
+}
+
+.card-img-top {
+    border-radius: 0%;
+}
